@@ -4,14 +4,14 @@ Aspiring software developer with a focus on full-stack development, cloud techno
 
 ## 📌 Featured Projects
 
-### 🚗 Roadtrip Rentals — `C# / ASP.NET Core`
+### 🚗 Roadtrip Rentals — `C#, SQL`
 > A full-stack web app for booking and cars built using C#, SQL.
 
 [🔗 View on GitHub](https://github.com/Jordi9049/roadtrip_rentals)
 
 ---
 
-### 💻 .NET Development — `C#`
+### 💻 .NET Development — `ASP.NET`
 > A collection of .NET mini-projects from my third year of college including API development and form apps.
 
 [🔗 View on GitHub](https://github.com/Jordi9049/.NET_development)
