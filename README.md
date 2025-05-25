@@ -14,7 +14,7 @@ Aspiring software developer with a focus on full-stack development, cloud techno
 ### 💻 .NET Development — `C#`
 > A collection of .NET mini-projects from my third year of college including API development and form apps.
 
-[🔗 View on GitHub](https://github.com/Jordi9049/NET_development)
+[🔗 View on GitHub](https://github.com/Jordi9049/.NET_development)
 
 
 ---
